@@ -136,3 +136,20 @@
   margin: 2rem auto;
   text-align: center;
 }
+
+.section h2 {
+  color: #f9572a;
+  margin-bottom: 1rem;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.1rem;
+}
+
+.section h2 {
+  background: linear-gradient(90deg, #f9572a, #ff9b05);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1rem;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.1rem;
+}

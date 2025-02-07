@@ -39,6 +39,15 @@ export default function ContactPage() {
           <li>
             <FontAwesomeIcon icon={faFacebook} />
             <p>
+              Linkedin:{" "}
+              <a href="https://www.linkedin.com/in/darkoreka/">
+                linkedin.com/in/darkoreka/
+              </a>
+            </p>
+          </li>
+          <li>
+            <FontAwesomeIcon icon={faFacebook} />
+            <p>
               Facebook:{" "}
               <a href="https://www.facebook.com/rekakatalin.darko">
                 Darkó Réka
@@ -49,9 +58,7 @@ export default function ContactPage() {
             <FontAwesomeIcon icon={faInstagram} />
             <p>
               Instagram:{" "}
-              <a href="https://www.instagram.com/darkoreka/">
-                darkoreka
-              </a>
+              <a href="https://www.instagram.com/darkoreka/">darkoreka</a>
             </p>
           </li>
         </ul>
