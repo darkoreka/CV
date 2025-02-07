@@ -12,3 +12,15 @@
   width: 100%;
   height: auto;
 }
+
+@media (max-width: 768px) {
+  .header-background {
+    height: 280px;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-background {
+    height: 240px;
+  }
+}
