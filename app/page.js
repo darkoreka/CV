@@ -11,7 +11,7 @@ export default function Home() {
         </div>
         <div>
           <div className={classes.hero}>
-            <h1>Hi, I'm a Fullstack Developer</h1>
+            <h1>Hi, I&apos;m a Fullstack Developer</h1>
             <p>
               Passionate about building engaging and user-friendly web
               applications.
@@ -29,7 +29,7 @@ export default function Home() {
         <section className={classes.section}>
           <h2>About Me</h2>
           <p>
-            I'm a frontend developer with experience in Next.js, React,
+            I&apos;m a frontend developer with experience in Next.js, React,
             JavaScript, CSS, Tailwind and HTML. Currently expanding my knowledge
             in fullstack development and AI-driven web applications.
           </p>

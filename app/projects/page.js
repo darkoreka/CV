@@ -12,7 +12,7 @@ export default function ProjectsPage() {
         <h1>
           Professional <span className={classes.highlight}>Experience</span>
         </h1>
-        <p>Projects and companies I've contributed to</p>
+        <p>Projects and companies I&apos;ve contributed to</p>
       </header>
       <main className={classes.main}>
         <ul className={classes.perks}>
