@@ -1,0 +1,71 @@
+.header {
+  gap: 3rem;
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 75rem;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 3rem;
+  margin: 0;
+  color: white;
+}
+
+.header p {
+  color: white;
+}
+
+.highlight {
+  color: #e9b949;
+}
+
+.main {
+  width: 90%;
+  max-width: 75rem;
+  margin: 3rem auto;
+}
+
+.certification {
+  margin-bottom: 3rem;
+}
+
+.certification h2 {
+  color: #e9b949;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.certification ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.certification li {
+  background-color: #1c1917;
+  padding: 2rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.certification h3 {
+  color: #e9b949;
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+.certification p {
+  margin: 0.5rem 0;
+  color: #fff;
+}
+
+.certification a {
+  color: white;
+}
+
+.certification a:hover {
+  color: #3b82f6;
+  transition: color 0.3s ease;
+}

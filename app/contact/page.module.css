@@ -1,0 +1,75 @@
+.header {
+  gap: 3rem;
+  margin: 3rem auto 5rem auto;
+  width: 90%;
+  max-width: 75rem;
+  color: #ddd6cb;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.header h1 {
+  font-family: "Montserrat", sans-serif;
+  padding-top: 5rem;
+}
+
+.highlight {
+  background: linear-gradient(90deg, #f9572a, #ff8a05);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  max-width: 50rem;
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+}
+
+.main h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  color: #ddd6cb;
+  width: full;
+}
+
+.perks {
+  list-style: none;
+  margin: 3rem 0;
+  padding: 0;
+}
+
+.perks a {
+  color: #ddd6cb;
+  text-decoration: none;
+}
+
+.perks a:hover {
+  color: #007bff;
+  transition: color 0.3s ease;
+}
+
+.perks li {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2rem;
+}
+
+.perks svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  color: #ddd6cb;
+}
+.perks p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0;
+  color: #ddd6cb;
+}
