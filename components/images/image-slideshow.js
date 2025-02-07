@@ -4,7 +4,6 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 
 import photo from "@/assets/photoBack.jpg";
-import sport from "@/assets/sportPhoto.jpg";
 import presentation from "@/assets/bemutato.jpg";
 import bachelor from "@/assets/Bachelor.jpg";
 import bachelorPhoto from "@/assets/Bachelor2.jpg";
@@ -15,7 +14,6 @@ import classes from "./image-slideshow.module.css";
 const images = [
   { image: slam, alt: "slam" },
   { image: photo, alt: "tengrai1" },
-  { image: sport, alt: "Sport" },
   { image: presentation, alt: "presentation" },
   { image: bachelor, alt: "bachelor" },
   { image: bachelorPhoto, alt: "bachelor" },

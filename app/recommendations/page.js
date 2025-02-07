@@ -5,7 +5,7 @@ export default function ReviewPage() {
     // "This is an amazing platform that has truly revolutionized the way we work with AI and web development!",
     // "Very impressed with the quality of the content and the knowledge shared by the instructors. Highly recommended for anyone interested in learning web development and AI.",
   ];
-  const reviewerName = ["Szabó W. Péter", "Sulyok Csaba"];
+  const reviewerName = ["Szabó W. Péter", "Dr. Sulyok Csaba"];
 
   const reviewerDescription = [
     {
@@ -13,7 +13,7 @@ export default function ReviewPage() {
       link: "https://tengr.ai",
       linkText: "Tengr.ai",
     },
-    "Babes Bolyai Rector",
+    "Babeș Bolyai University Lecturer",
   ];
 
   return (
