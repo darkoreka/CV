@@ -23,7 +23,6 @@ export default function RecommendationCard({
     <>
       <header className={classes.header}>
         <h1>
-          Recommendation from{" "}
           <span className={classes.highlight}>{reviewerName}</span>
         </h1>
         <p>{renderDescription(reviewerDescription)}</p>

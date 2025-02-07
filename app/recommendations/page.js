@@ -2,8 +2,7 @@ import RecommendationCard from "./components/recommendation-card";
 
 export default function ReviewPage() {
   const reviewText = [
-    // "This is an amazing platform that has truly revolutionized the way we work with AI and web development!",
-    // "Very impressed with the quality of the content and the knowledge shared by the instructors. Highly recommended for anyone interested in learning web development and AI.",
+    "I am writing to enthusiastically recommend Darkó Réka for a front-end developer position. As the founder of Tengr.ai, I have had the pleasure of watching Réka grow from a junior developer into a highly capable professional over our time working together. During her tenure, Réka has demonstrated exceptional aptitude in Next.js development and front-end technologies. She has consistently shown remarkable dedication to expanding her technical expertise, taking initiative to learn new skills and staying current with modern web development practices. Her solutions to complex challenges have been thorough and have enhanced our team's overall performance.",
   ];
   const reviewerName = ["Szabó W. Péter", "Dr. Sulyok Csaba"];
 
