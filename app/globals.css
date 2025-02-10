@@ -41,3 +41,8 @@ body {
   font-weight: 500;
   color: #ddd8d8;
 }
+
+.main-content {
+  margin-top: 8rem;
+  width: 100%;
+}
