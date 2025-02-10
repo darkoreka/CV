@@ -38,7 +38,9 @@ export default function ProjectsPage() {
               conferences. Features include student registration, essay
               submissions, teacher approvals, and conference management. Built
               with a three-tier architecture: central server, web application,
-              and database.
+              and database. The backend was developed using Spring Boot, and the
+              frontend was built with React. The design was created in Figma,
+              and the database used was MySQL, with MinIO for document storage.
             </p>
           </li>
         </ul>
